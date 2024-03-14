@@ -8,6 +8,7 @@ public class main {
         System.out.println(new Date(1));
         System.out.println(new Date(27));
         System.out.println("Welcome sanket yu are nou in jenkins");
+        student s1 = new student();
+        s1.hello();
     }
-
 }
